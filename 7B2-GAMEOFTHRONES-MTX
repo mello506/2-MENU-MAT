@@ -1,12 +1,12 @@
 <item>
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>
+<thumbnail>https://i.ibb.co/Svrpqyj/ICONELUMINART.png</thumbnail>
+<fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Game of Thrones[/B][/COLOR]</title>
@@ -21,15 +21,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Game of Thrones - 2011 [/B][/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=QK80JtJVL5A$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Game of Thrones[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3222958d59c10b222600e43f9ea5c6a161293658$nome=[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6086a5f1e292523faa1115a36e797ad5f7616038$nome=[COLOR orange][B]T02[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6c8e66a91bac41eb0085eb6921d11a543621eb$nome=[COLOR orange][B]T03[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83651ebe0cf171b00f6d68e94f08c7045968937$nome=[COLOR orange][B]T04[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02f9a39abd8026c82902503a14fcf87d79393827$nome=[COLOR orange][B]T05[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9c64ccf8bf8a18b6bf675b587669ceef7b8f7c$nome=[COLOR orange][B]T06[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0fc261d0f366e519f591a2c09ffe1c2aaa46e96$nome=[COLOR orange][B]T07[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882ce98b41667cdd61c718229d79b6a8f208a9ba$nome=[COLOR orange][B]T08[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=QK80JtJVL5A$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Game of Thrones[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3222958d59c10b222600e43f9ea5c6a161293658$$lsname=[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6086a5f1e292523faa1115a36e797ad5f7616038$$lsname=[COLOR orange][B]T02[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6c8e66a91bac41eb0085eb6921d11a543621eb$$lsname=[COLOR orange][B]T03[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83651ebe0cf171b00f6d68e94f08c7045968937$$lsname=[COLOR orange][B]T04[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02f9a39abd8026c82902503a14fcf87d79393827$$lsname=[COLOR orange][B]T05[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9c64ccf8bf8a18b6bf675b587669ceef7b8f7c$$lsname=[COLOR orange][B]T06[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0fc261d0f366e519f591a2c09ffe1c2aaa46e96$$lsname=[COLOR orange][B]T07[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882ce98b41667cdd61c718229d79b6a8f208a9ba$$lsname=[COLOR orange][B]T08[COLOR yellow] -> [COLOR white]Game of Thrones - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart>
@@ -38,7 +38,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <item>
 <title>[COLOR orange][B]Game of Thrones - T01[/B][/COLOR]</title>
@@ -451,4 +450,47 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]Game of Thrones - T08[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]Game of Thrones[COLOR yellow] -> [COLOR white]T08E1 - Winterfell[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/16f3d4_3d917fb6e1a8433a84c93d54ca39ea08/720p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart></item>
+
+<item>
+<title>[COLOR orange][B]Game of Thrones[COLOR yellow] -> [COLOR white]T08E2 - Uma Cavaleira dos Sete Reinos[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/16f3d4_21bc8e743d654fd7ad356c75e6a92d91/720p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart></item>
+
+<item>
+<title>[COLOR orange][B]Game of Thrones[COLOR yellow] -> [COLOR white]T08E3 - A Longa Noite[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/16f3d4_89878e40beec45debf937d7b2d19dff5/720p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart></item>
+
+<item>
+<title>[COLOR orange][B]Game of Thrones[COLOR yellow] -> [COLOR white]T08E4 - Os Últimos Starks[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/16f3d4_278c7477f95149fcbc84aceed478fa5a/720p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart></item>
+
+<item>
+<title>[COLOR orange][B]Game of Thrones[COLOR yellow] -> [COLOR white]T08E5 - Os Sinos[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/16f3d4_6d25d2b4ee714df48853aff6df1e4c69/720p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart></item>
+
+<item>
+<title>[COLOR orange][B]Game of Thrones[COLOR yellow] -> [COLOR white]T08E6 - O Trono de Ferro[/B][/COLOR]</title>
+<link>https://video.wixstatic.com/video/16f3d4_62f0a769c5b24a93b1466294ab6477dd/720p/mp4/file.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/wXSnajAZ5ppTKa8Z5zzWGOK85YH.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
