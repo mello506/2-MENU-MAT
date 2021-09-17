@@ -184,62 +184,105 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-<item>			
-<title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]O Mandaloriano - 2019[/B][/COLOR] </title>			
-			
+
+<item>				
+<title>[COLOR white][B]O Mandaloriano - 2019[/B][/COLOR] </title>				
+
 <link>plugin://plugin.video.youtube/play/?video_id=ra8sFRnLOJM$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Mandaloriano[/B][/COLOR]</link>			
 			
-<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 01 - LEG FIX[/B][/COLOR]</link>			
-			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>			
-			
-<link>NOLINK$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR orange] Temporada 02 - LEG FIX[/B][/COLOR]</link>			
-			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>			
-<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>			
-<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>			
-<genre>FICÇÃO E FANTASIA</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
-<item>			
-<title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Star Wars O Lote Estragado - 2021 - DUB[/B][/COLOR]</title>			
-			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 - 8 EPs - DUB[/B][/COLOR]</link>				
+				
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35333	FAT.mp4$nome=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35334	FAT.mp4$nome=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/35335	FAT.mp4$nome=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81795	FAT.mp4$nome=[COLOR orange][B]T01E04	GET[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/81796	FAT.mp4$nome=[COLOR orange][B]T01E05	GET[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39587	FAT.mp4$nome=[COLOR orange][B]T01E06	GET[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39588	FAT.mp4$nome=[COLOR orange][B]T01E07	GET[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/39589	FAT.mp4$nome=[COLOR orange][B]T01E08	GET[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>		
+				
+<link>NOLINK$nome=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 02 - 8 EPs - DUB[/B][/COLOR]</link>				
+				
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78357	FAT.mp4$nome=[COLOR orange][B]T02E01	GET[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/78358	FAT.mp4$nome=[COLOR orange][B]T02E02	GET[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80314	FAT.mp4$nome=[COLOR orange][B]T02E03	GET[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80315	FAT.mp4$nome=[COLOR orange][B]T02E04	GET[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80316	FAT.mp4$nome=[COLOR orange][B]T02E05	GET[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82238	FAT.mp4$nome=[COLOR orange][B]T02E06	GET[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82239	FAT.mp4$nome=[COLOR orange][B]T02E07	GET[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>		
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/82240	FAT.mp4$nome=[COLOR orange][B]T02E08	GET[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>		
+				
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>				
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>				
+<genre>FICÇÃO E FANTASIA</genre>  				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+item>				
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Star Wars - O Mandaloriano (2019 e 2021)[/B][/COLOR] </title>				
+				
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - LEG FIX[/B][/COLOR]</link>				
+				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE01.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Mandaloriano [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE02.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Criansa[/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE03.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O Pecado [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE04.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Santuario[/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE05.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Pistoleiro [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE06.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]O Prisioneiro [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE07.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]O Acerto de Contas [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/maximusTheMandalorianE08.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Redensao [/B][/COLOR]</link>				
+				
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - LEG FIX[/B][/COLOR]</link>				
+				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E01.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Marechal [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E02.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Passageiro [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E03.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]A Herdeira [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E04.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]O Cerco [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E05.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Jedi [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E06.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Tragedia [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E07.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Que Acredita [/B][/COLOR]</link>				
+<link>http://shark2020tv.eu/movie/series/The.Mandalorian1/The.Mandalorian.S02E08.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]O Resgate[/B][/COLOR]</link>				
+				
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/6RIVvzj4A6DGoZ4U7C9oDOy8tIR.jpg</fanart>				
+<info>A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>				
+<genre>STAR WARS</genre>  				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>	
+<title>[COLOR white][B]Star Wars O Lote Estragado - 2021 [/B][/COLOR]</title>	
+
 <link>plugin://plugin.video.youtube/play/?video_id=ACJUDh2bE9k$nome=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Star Wars O Lote Estragado[/B][/COLOR]</link>			
-			
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
-			
-<link>http://b5.vc:80/series/macario/10203040/104628.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/macario/10203040/106599.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/macario/10203040/106600.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/macario/10203040/107805.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]</link>			
-link>http://b5.vc:80/series/macario/10203040/.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroso [/B][/COLOR]</link>			
-			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>			
-<info>Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.</info>			
-<genre>ANIMAÇÃO</genre>  			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-			
+
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - 16 EPS - DUB[/B][/COLOR]</link>	
+
+<link>http://b5.vc:80/series/macario/10203040/116836.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116837.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116838.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116839.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116840.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroso [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116841.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Descomissionado [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116842.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Cicatrizes de Batalha [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116843.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Reuniao [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116844.mp4$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Recompensa Perdida [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116845.mp4$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Terreno Comum [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116846.mp4$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Acordo do Diabo [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116847.mp4$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Resgate em Ryloth [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116848.mp4$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Infestado [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/116849.mp4$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Manto de Guerra [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/120567.mp4$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 1) [/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/macario/10203040/120641.mp4$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white] Retorno a Kamino (Final Parte 2) [/B][/COLOR]</link>	
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>	
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>	
+<info>Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.</info>	
+<genre>ANIMAÇÃO</genre>  	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+
 <item>			
 <title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones - 2003[/B][/COLOR]</title>			
 			
